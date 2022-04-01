@@ -28,9 +28,9 @@ Para usar `<Jogo do Dino>`, siga estas etapas:
 
 ```
 Depois de clonado, com o botão direito sobre o arquivo index.html, escolher opção Abrir com Live Server.
-```
 O arquivo abrirá no seu navegador padrão.
 ```
+
 
 ## 🤝 Colaboradores
 
