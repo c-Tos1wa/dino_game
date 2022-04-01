@@ -1,0 +1,49 @@
+*{
+  margin: 0;
+  padding: 0; 
+  box-sizing: border-box;
+  text-decoration: none;
+  list-style: none;
+  text-align: center;
+}
+
+h1{
+  color: #320d6d;
+  font-weight: 500;
+  padding: 50px 0;
+  font-size: 3rem;
+}
+
+h3{
+  font-weight: 400;
+  color: #06a77d;
+  font-size: 1.5rem;
+
+}
+
+.dino{
+  background-image: url('./assets/dino.png');
+  position: absolute;
+  bottom: 0;
+  width: 60px;
+  height: 60px;
+}
+
+.cactus {
+  background-image: url('./assets/cactus.png');
+  position: absolute;
+  bottom: 0;
+  width: 60px;
+  height: 60px;
+}
+
+body{
+  background-image: url ('./assets/background.png')
+}
+
+
+.gameOver{
+  margin: 300px 0;
+  font-size: 7rem;
+  color: #a40606;
+}
